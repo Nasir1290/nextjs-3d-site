@@ -14,7 +14,7 @@ export const metadata = {
     template:
       "Next.js Portfolio Created with Three.js and Tailwind CSS | %s | Nasir Mollah",
     default:
-      "Next.js Portfolio Created with Three.js and Tailwind CSS by Nasir Mollah",
+      "Nasir Mollah Next.js Portfolio Created with Three.js and Tailwind CSS",
   },
   description:
     "A unique creative portfolio designed by NasirMollah with cutting-edge technologies like Next.js, Tailwind CSS, Three.js, and Framer Motion. Experience the art of modern web development firsthand. ",
